@@ -1,0 +1,19 @@
+{
+  "name": "pern-elastic-beanstalk",
+  "version": "1.0.0",
+  "description": "Postgres Express React Nodejs and AWS Elastic Beanstalk application example",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/NeetishRaj/node-react-postgres-aws-elastic-beanstalk.git"
+  },
+  "author": "Neetish Raj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NeetishRaj/node-react-postgres-aws-elastic-beanstalk/issues"
+  },
+  "homepage": "https://github.com/NeetishRaj/node-react-postgres-aws-elastic-beanstalk#readme"
+}
